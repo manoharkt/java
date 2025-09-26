@@ -26,7 +26,7 @@ class Number {
     }
 }
 
-class ConOverloadDemo {
+class exp1{
     public static void main(String args[]) {
         // Using two-argument constructor
         Number N1 = new Number(10, 20);
